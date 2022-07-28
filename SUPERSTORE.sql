@@ -102,15 +102,6 @@ ORDER BY PROFIT DESC;
 SELECT [Product ID], [PRODUCT NAME] ,PROFIT FROM Orders$ 
 WHERE Profit = (SELECT MAX(PROFIT) FROM Orders$);
 
-
-SELECT [Product Name],[Shipping Cost] FROM Orders$ WHERE
-[Shipping Cost]  =
-(SELECT 
-ROUND(MAX_COST,0) FROM 
-( SELECT MAX([Shipping Cost]) AS MAX_COST  FROM Orders$)A);
-
-
-
 --PLANTRONICS HAS THE MAXIMUM SHIPPING COST
 SELECT [Product Name],[Shipping Cost] FROM Orders$ WHERE
 [Shipping Cost]  =(SELECT MAX([Shipping Cost]) AS MAX_COST  FROM Orders$);
