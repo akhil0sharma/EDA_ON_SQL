@@ -1,16 +1,7 @@
-### Hi there 👋
+### Akhil sharma
 
-<!--
-**akhil0sharma/akhil0sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I'm interested in data analysis and machine learning
 - 🌱 I’m currently learning data analysis and machine learning ...
-- 👯 I’m looking to collaborate on sql,Python,Ms excel
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on sql,Python and data analysis project
 - 📫 How to reach me: contact me on akhilddca@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
